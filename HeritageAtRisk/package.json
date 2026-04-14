@@ -10,9 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
     "react": "16.11.0",
     "react-native": "0.62.2",
-    "react-native-camera": "git+https://git@github.com/react-native-community/react-native-camera.git",
     "react-native-svg": "^12.1.0",
     "react-native-svg-transformer": "^0.14.3"
   },
